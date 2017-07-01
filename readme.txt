@@ -2,7 +2,9 @@ The Electric Network Frequency (ENF) is the supply frequency of power distributi
 
 In this work, we report Power Recording process Bangladesh National Grid and used the power recording to extract the ENF data [1] to compare available power recordings data from online database [2]. We used a set of features from [3] which serve as identifying characteristics for detecting the region of origin of the multimedia recording. We used those characteristics in a multiclass machine learning implementation based on MATLAB which is able to identify the grid of the recorded signal.
 
-The recorded power recording of Bangladesh Grid is avalibale this repository.
+Final Power Recording: The recorded power recording of Bangladesh Grid is avalibale this repository.
+Pictures: Power Recording Device used to collect "Power Recording" data form Bangladesh Grid.
+ENF figure: 10 hours of ENF complied into single frame.
 
 [1] Adi Hajj-Ahmad, R., MinWu,. Spectrum Combining for ENF Signal Estimation - Dataset & Codes,.  2013  [cited 2017 March 03]; Available from: http://cwwongpatch2.no-ip.org/mast_new/research.php?t=enf.
 
