@@ -1,6 +1,7 @@
 # ENF-Extraction-of-Bangladesh-Grid
 ### Repository for the paper: Power file extraction process from bangladesh grid and exploring ENF based classification accuracy using machine learning
 Paper Link: https://ieeexplore.ieee.org/abstract/document/8288911
+Authors: Samin Yeasar Arnob, Riyasat Ohib, Md. Muhtady Muhaisin, Tanzil Bin Hassan.
 
 The Electric Network Frequency (ENF) is the supply frequency of power distribution networks, which can be captured by multimedia signals recorded near electrical activities. It normally fluctuates slightly over time from its nominal value of 50 Hz/60 Hz. The ENF remain consistent across the entire power grid. This has led to the emergence of multiple forensic application like estimating the recording location and validating the time of recording. Recently an ENF based Machine Learning system was proposed which infers the region of recording from the power grids ENF signal extracted from the recorded multimedia signal, with the help of relevant features. 
 
